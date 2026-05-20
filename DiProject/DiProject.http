@@ -1,0 +1,6 @@
+@DiProject_HostAddress = http://localhost:5037
+
+GET {{DiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
